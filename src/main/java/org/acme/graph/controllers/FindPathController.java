@@ -1,8 +1,5 @@
 package org.acme.graph.controllers;
 
-import java.util.List;
-
-import org.acme.graph.model.Edge;
 import org.acme.graph.model.Graph;
 import org.acme.graph.model.Path;
 import org.acme.graph.model.Vertex;
